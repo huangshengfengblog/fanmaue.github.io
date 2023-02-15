@@ -1,0 +1,19 @@
+{
+  "name": "fanma",
+  "version": "1.0.0",
+  "description": "Helle FanMa",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "vuepress build fanma",
+    "fanma": "vuepress dev fanma --clean-cache",
+    "fanma:dev": "vuepress dev fanma",
+    "fanma:update-package": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.60",
+    "vue": "^3.2.47",
+    "vuepress": "2.0.0-beta.60",
+    "vuepress-theme-hope": "2.0.0-beta.174"
+  }
+}

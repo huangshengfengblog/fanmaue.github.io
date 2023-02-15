@@ -1,0 +1,30 @@
+// place your custom styles here
+#app {
+    background: #f0f0f0;
+    --sidebar-space: none;
+    // background: var(--bg-color-back);
+}
+.home.project {
+    --content-width: none;
+    width: var(--home-page-width);
+    margin: 6.5rem auto 2rem auto;
+    padding-top: 1rem;
+    background: #FFFFFF;
+    box-shadow: 0 0 6px 4px #88888825;
+}
+.home.project .hero-info-wrapper {
+    justify-content: left;
+}
+.home.project .hero-info-wrapper img{
+    width: 92px;
+    height: 92px;
+}
+.home.project .hero-info-wrapper .hero-info{
+    padding-left: 2rem;
+}
+.home.project .hero-info-wrapper h1{
+    font-size: 1.75rem;
+}
+.home.project .hero-info-wrapper p{
+    font-size: 1.25rem;
+}
