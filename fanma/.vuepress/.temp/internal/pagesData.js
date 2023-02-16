@@ -11,18 +11,24 @@ export const pagesData = {
   "v-64d16e5b": () => import(/* webpackChunkName: "v-64d16e5b" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/blog/2.html.js").then(({ data }) => data),
   // path: /blog/
   "v-145ac574": () => import(/* webpackChunkName: "v-145ac574" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/blog/index.html.js").then(({ data }) => data),
-  // path: /en/About.html
-  "v-486bf74e": () => import(/* webpackChunkName: "v-486bf74e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/About.html.js").then(({ data }) => data),
-  // path: /en/
-  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /note/1.html
   "v-50451b6c": () => import(/* webpackChunkName: "v-50451b6c" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/note/1.html.js").then(({ data }) => data),
   // path: /note/2.html
   "v-51f9f40b": () => import(/* webpackChunkName: "v-51f9f40b" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/note/2.html.js").then(({ data }) => data),
   // path: /note/3.html
   "v-53aeccaa": () => import(/* webpackChunkName: "v-53aeccaa" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/note/3.html.js").then(({ data }) => data),
+  // path: /note/5.html
+  "v-57187de8": () => import(/* webpackChunkName: "v-57187de8" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/note/5.html.js").then(({ data }) => data),
   // path: /note/
   "v-15054f24": () => import(/* webpackChunkName: "v-15054f24" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/note/index.html.js").then(({ data }) => data),
+  // path: /en/About.html
+  "v-486bf74e": () => import(/* webpackChunkName: "v-486bf74e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/About.html.js").then(({ data }) => data),
+  // path: /en/
+  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
+  // path: /vuepress/1.html
+  "v-152101fe": () => import(/* webpackChunkName: "v-152101fe" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/vuepress/1.html.js").then(({ data }) => data),
+  // path: /vuepress/
+  "v-74534679": () => import(/* webpackChunkName: "v-74534679" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/vuepress/index.html.js").then(({ data }) => data),
   // path: /en/blog/1.html
   "v-6b596d28": () => import(/* webpackChunkName: "v-6b596d28" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/blog/1.html.js").then(({ data }) => data),
   // path: /en/blog/2.html
@@ -55,20 +61,24 @@ export const pagesData = {
   "v-0b2aaab4": () => import(/* webpackChunkName: "v-0b2aaab4" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/category/博客笔记/index.html.js").then(({ data }) => data),
   // path: /tag/%E9%A5%AD%E5%90%97/
   "v-007b96e6": () => import(/* webpackChunkName: "v-007b96e6" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/饭吗/index.html.js").then(({ data }) => data),
-  // path: /en/category/
-  "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
+  // path: /category/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/
+  "v-4943943d": () => import(/* webpackChunkName: "v-4943943d" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/category/自动部署/index.html.js").then(({ data }) => data),
   // path: /tag/%E7%91%B6%E6%97%8F/
   "v-538fae4e": () => import(/* webpackChunkName: "v-538fae4e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/瑶族/index.html.js").then(({ data }) => data),
-  // path: /en/category/blog/
-  "v-1012866e": () => import(/* webpackChunkName: "v-1012866e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/category/blog/index.html.js").then(({ data }) => data),
+  // path: /category/vuepress/
+  "v-43d7543a": () => import(/* webpackChunkName: "v-43d7543a" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/category/vuepress/index.html.js").then(({ data }) => data),
   // path: /tag/%E7%91%B6%E8%AF%9D/
   "v-31cc3116": () => import(/* webpackChunkName: "v-31cc3116" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/瑶话/index.html.js").then(({ data }) => data),
-  // path: /en/category/note/
-  "v-0ebd730e": () => import(/* webpackChunkName: "v-0ebd730e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/category/note/index.html.js").then(({ data }) => data),
+  // path: /en/category/
+  "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
   // path: /tag/%E5%8D%9A%E5%AE%A2/
   "v-3a134560": () => import(/* webpackChunkName: "v-3a134560" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/博客/index.html.js").then(({ data }) => data),
+  // path: /en/category/blog/
+  "v-1012866e": () => import(/* webpackChunkName: "v-1012866e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/category/blog/index.html.js").then(({ data }) => data),
   // path: /tag/vuepress/
   "v-ed16b278": () => import(/* webpackChunkName: "v-ed16b278" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/vuepress/index.html.js").then(({ data }) => data),
+  // path: /en/category/note/
+  "v-0ebd730e": () => import(/* webpackChunkName: "v-0ebd730e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/category/note/index.html.js").then(({ data }) => data),
   // path: /tag/%E4%B8%BB%E9%A2%98/
   "v-11d4e5d0": () => import(/* webpackChunkName: "v-11d4e5d0" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/主题/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%95%99%E7%A8%8B/
@@ -87,6 +97,16 @@ export const pagesData = {
   "v-38c8c146": () => import(/* webpackChunkName: "v-38c8c146" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/代码/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%A0%B7%E5%BC%8F/
   "v-2ceb963b": () => import(/* webpackChunkName: "v-2ceb963b" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/样式/index.html.js").then(({ data }) => data),
+  // path: /tag/%E8%87%AA%E5%8A%A8/
+  "v-eaac2b52": () => import(/* webpackChunkName: "v-eaac2b52" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/自动/index.html.js").then(({ data }) => data),
+  // path: /tag/%E9%83%A8%E7%BD%B2/
+  "v-0e611ade": () => import(/* webpackChunkName: "v-0e611ade" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/部署/index.html.js").then(({ data }) => data),
+  // path: /tag/%E9%94%99%E8%AF%AF/
+  "v-1bae9fb2": () => import(/* webpackChunkName: "v-1bae9fb2" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/错误/index.html.js").then(({ data }) => data),
+  // path: /tag/github/
+  "v-132a6ac4": () => import(/* webpackChunkName: "v-132a6ac4" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/github/index.html.js").then(({ data }) => data),
+  // path: /tag/pages/
+  "v-1460ce8e": () => import(/* webpackChunkName: "v-1460ce8e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/pages/index.html.js").then(({ data }) => data),
   // path: /en/tag/
   "v-075c6c62": () => import(/* webpackChunkName: "v-075c6c62" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/tag/index.html.js").then(({ data }) => data),
   // path: /en/tag/fanma/
