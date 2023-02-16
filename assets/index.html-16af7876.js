@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as n,Z as o}from"./framework-6fb4b441.js";const _={},c=o("p",null,"Note主页",-1),s=[c];function r(a,l){return t(),n("div",null,s)}const i=e(_,[["render",r],["__file","index.html.vue"]]);export{i as default};

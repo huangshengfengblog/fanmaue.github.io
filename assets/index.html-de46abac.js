@@ -1,0 +1,1 @@
+import{_ as a,W as t,X as n,Z as e,a4 as o}from"./framework-6fb4b441.js";const c={},r=e("h1",{id:"hello-fanma",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hello-fanma","aria-hidden":"true"},"#"),o(" Hello FanMa")],-1),s=[r];function l(_,d){return t(),n("div",null,s)}const h=a(c,[["render",l],["__file","index.html.vue"]]);export{h as default};

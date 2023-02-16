@@ -1,0 +1,1 @@
+import{_ as s,W as e,X as r,$ as a,a0 as l,a1 as c,a2 as _,C as f}from"./framework-6fb4b441.js";const i={};function m(t,u){const o=f("SiteInfo");return e(),r("div",null,[(e(!0),r(a,null,l(t.$frontmatter.links,n=>(e(),c(o,_({key:n.link},n),null,16))),128))])}const p=s(i,[["render",m],["__file","friends.html.vue"]]);export{p as default};
