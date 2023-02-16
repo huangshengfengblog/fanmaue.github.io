@@ -1,4 +1,6 @@
 export const pagesData = {
+  // path: /friends.html
+  "v-4726f1dd": () => import(/* webpackChunkName: "v-4726f1dd" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/friends.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /slides.html
@@ -11,6 +13,10 @@ export const pagesData = {
   "v-64d16e5b": () => import(/* webpackChunkName: "v-64d16e5b" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/blog/2.html.js").then(({ data }) => data),
   // path: /blog/
   "v-145ac574": () => import(/* webpackChunkName: "v-145ac574" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/blog/index.html.js").then(({ data }) => data),
+  // path: /en/About.html
+  "v-486bf74e": () => import(/* webpackChunkName: "v-486bf74e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/About.html.js").then(({ data }) => data),
+  // path: /en/
+  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /note/1.html
   "v-50451b6c": () => import(/* webpackChunkName: "v-50451b6c" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/note/1.html.js").then(({ data }) => data),
   // path: /note/2.html
@@ -21,10 +27,6 @@ export const pagesData = {
   "v-57187de8": () => import(/* webpackChunkName: "v-57187de8" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/note/5.html.js").then(({ data }) => data),
   // path: /note/
   "v-15054f24": () => import(/* webpackChunkName: "v-15054f24" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/note/index.html.js").then(({ data }) => data),
-  // path: /en/About.html
-  "v-486bf74e": () => import(/* webpackChunkName: "v-486bf74e" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/About.html.js").then(({ data }) => data),
-  // path: /en/
-  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /vuepress/1.html
   "v-152101fe": () => import(/* webpackChunkName: "v-152101fe" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/vuepress/1.html.js").then(({ data }) => data),
   // path: /vuepress/
@@ -87,8 +89,6 @@ export const pagesData = {
   "v-7329824f": () => import(/* webpackChunkName: "v-7329824f" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/笔记/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%96%B9%E6%B3%95/
   "v-3a0c19f0": () => import(/* webpackChunkName: "v-3a0c19f0" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/方法/index.html.js").then(({ data }) => data),
-  // path: /tag/wuepress/
-  "v-1db915c5": () => import(/* webpackChunkName: "v-1db915c5" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/wuepress/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%89%93%E5%8C%85/
   "v-4b1edce9": () => import(/* webpackChunkName: "v-4b1edce9" */"C:/FanMa/Blog/fanma/.vuepress/.temp/pages/tag/打包/index.html.js").then(({ data }) => data),
   // path: /tag/%E5%87%BA%E9%94%99/

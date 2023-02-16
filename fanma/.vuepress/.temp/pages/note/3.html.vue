@@ -1,7 +1,7 @@
 <template><div><p>使用 VuePress Theme Hope 主题的时候，我发现其默认的 代码块样式 配色太浅。一开始我就想把它换成更深一点的样式，可是一直都找到设置的方法。直到今天我才找到如何设置，下面就把我找到的方法分享给大家。</p>
 <h2 id="可用样式" tabindex="-1"><a class="header-anchor" href="#可用样式" aria-hidden="true">#</a> 可用样式</h2>
 <p>在修改模式前，先给大家列出 VuePress Theme Hope 提供给我们可修改的一些样式信息。下面就是一些可以使用的样式，可根据自己的喜好选择自己想要的样式。</p>
-<div class="hint-container tip">
+<div class="hint-container info">
 <p class="hint-container-title">浅色样式</p>
 <div class="language-css line-numbers-mode" data-ext="css"><pre v-pre class="language-css"><code>ateliersulphurpool-light
 coldark-cold
@@ -13,7 +13,7 @@ material-light
 one-light
 vs
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></div>
-<div class="hint-container tip">
+<div class="hint-container info">
 <p class="hint-container-title">深色样式</p>
 <div class="language-css line-numbers-mode" data-ext="css"><pre v-pre class="language-css"><code>atom-dark
 cb

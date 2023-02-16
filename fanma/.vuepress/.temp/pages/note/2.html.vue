@@ -1,4 +1,4 @@
-<template><div><h2 id="wuepress-打包出错" tabindex="-1"><a class="header-anchor" href="#wuepress-打包出错" aria-hidden="true">#</a> Wuepress 打包出错</h2>
+<template><div><h2 id="vuepress-打包出错" tabindex="-1"><a class="header-anchor" href="#vuepress-打包出错" aria-hidden="true">#</a> Vuepress 打包出错</h2>
 <p>修改 theme.ts 配置文件后，进行打包生成静态文件的时候出现以下错误。</p>
 <div class="language-git line-numbers-mode" data-ext="git"><pre v-pre class="language-git"><code>$ pnpm build
 

@@ -10,7 +10,7 @@ export default hopeTheme({
   },
   iconAssets: "iconfont",
   logo: "/Avatar.jpg",
-  repo: "fanmaue/fama",
+  repo: "fanmaue/fanmaue",
   docsDir: "fanma",
   pageInfo:["Author", "Original", "Date", "Category", "Tag","Word", "ReadingTime","PageView"],
   locales: {
@@ -67,7 +67,9 @@ export default hopeTheme({
   },
 
   plugins: {
-
+    components: {
+      components: ['SiteInfo'],
+    },
     blog: {
       excerptLength: 300,
 
@@ -163,3 +165,4 @@ export default hopeTheme({
     // },
   },
 });
+

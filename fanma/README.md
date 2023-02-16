@@ -23,6 +23,8 @@ actions:
     type: secondary
 # heroFullScreen: true
 ---
+
+不忘记自己的初心，去做一切美好的事情！ --- FanMa 博客
 <!-- ## Hello FanMa
 
 ```md

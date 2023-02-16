@@ -1,4 +1,5 @@
-<template><div><!-- ## Hello FanMa
+<template><div><p>不忘记自己的初心，去做一切美好的事情！ --- FanMa 博客</p>
+<!-- ## Hello FanMa
 
 ```md
 layout: BlogHome
