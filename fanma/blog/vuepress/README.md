@@ -19,4 +19,4 @@ comment: false
 editLink: false
 ---  
 
-<AutoCatalog base='/vuepress/' />
+<AutoCatalog base='/blog/vuepress/' />

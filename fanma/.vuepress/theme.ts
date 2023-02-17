@@ -10,7 +10,7 @@ export default hopeTheme({
   },
   iconAssets: "iconfont",
   logo: "/Avatar.jpg",
-  repo: "fanmaue/fanmaue",
+  repo: "fanmaue/fanmaue.github.io",
   docsDir: "fanma",
   pageInfo:["Author", "Original", "Date", "Category", "Tag","Word", "ReadingTime","PageView"],
   locales: {

@@ -1,1 +1,1 @@
-export const sidebarData = {"/en/note/":[],"/en/blog/":["","1","2"],"/note/":["","1","2","3","5"],"/blog/":["","1","2"]};
+export const sidebarData = {"/en/note/":[],"/en/blog/":["","1","2"],"/note/":["","1","2","3","5"],"/blog/":["",{"text":"2023","prefix":"2023/","collapsible":true,"children":["1","2"]},{"text":"Github","prefix":"github/","collapsible":true,"children":["","1"]}]};

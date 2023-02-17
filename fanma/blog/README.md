@@ -14,7 +14,6 @@ timeline: false
 comment: false
 editLink: false
 ---  
+这是我的博客日记主页
+<AutoCatalog base='/blog/2023/' />
 
-<AutoCatalog base='/blog/' />
-
-<AutoCatalog base='/note/' />

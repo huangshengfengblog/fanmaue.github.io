@@ -6,7 +6,10 @@ title: 首页
 heroImage: /Avatar.jpg
 heroText: 饭吗！！！
 tagline: 不忘记自己的初心，去做一切美好的事情！
-# Special thank to @mo7
+head:
+  - - meta
+    - name: keywords
+      content: FanMa,博客,FanMa 博客
 bgImage: false
 hero: false
 heroFullScreen: false
