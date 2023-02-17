@@ -5,7 +5,7 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 export default hopeTheme({
   hostname: "https://fanmaue.github.io",
   author: {
-    name: "饭吗",
+    name: "FanMa",
     url: "https://fanmaue.github.io",
   },
   iconAssets: "iconfont",
